@@ -1,8 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "exercicios-js"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "exercicios-js/fundamentos"
+        }
+    ]
 }
